@@ -60,10 +60,3 @@ docker run -it -d --name halo -p 8090:8090 -v ~/.halo:/root/.halo --restart=alwa
 ## 贡献
 
 参考 [CONTRIBUTING](./CONTRIBUTING.md)。
-
-## 捐赠
-
-> 如果 Halo 对你有帮助，可以请开发团队们喝杯☕️。
-
-- 一次性赞助：<https://sponsor.halo.run>
-- 周期性赞助：<https://afdian.net/@halo-dev>
